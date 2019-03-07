@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[M.]]></title><description><![CDATA[i'm a performing monkey]]></description><link>https://m.nkey.co/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 21 Feb 2019 05:47:44 GMT</lastBuildDate><item><title><![CDATA[Instant Page]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[M.]]></title><description><![CDATA[i'm a performing monkey]]></description><link>https://m.nkey.co/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 07 Mar 2019 03:22:19 GMT</lastBuildDate><item><title><![CDATA[Instant Page]]></title><description><![CDATA[
 通过监听 mouseover / touchstart 停留超过 65ms 的链接，就发起请求预加载链接的内容，让用户产生页面加载变快的幻觉
 
 ]]></description><link>https://m.nkey.co//instant-page/</link><guid isPermaLink="false">https://m.nkey.co//instant-page/</guid><pubDate>Tue, 12 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;通过监听 mouseover / touchstart 停留超过 65ms 的链接，就发起请求预加载链接的内容，让用户产生页面加载变快的幻觉&lt;/p&gt;
@@ -46,4 +46,8 @@ Chrome 67 以后浏览器会默认启用名为 Site Isolation 的安全功能于
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.chromestatus.com/feature/5629709824032768&quot;&gt;Cross-Origin Read Blocking&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.chromium.org/developers/design-documents/blocking-cross-site-documents&quot;&gt;Older Design document&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[KV Storage]]></title><description><![CDATA[
+大家终于意识到了 IndexedDB 使用过于麻烦，在顶层实现了一个类似 localStorage 的接口
+
+]]></description><link>https://m.nkey.co//kv-storage/</link><guid isPermaLink="false">https://m.nkey.co//kv-storage/</guid><pubDate>Wed, 07 Mar 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;大家终于意识到了 IndexedDB 使用过于麻烦，在顶层实现了一个类似 localStorage 的接口&lt;/p&gt;
+&lt;!-- more --&gt;</content:encoded></item></channel></rss>
